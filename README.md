@@ -1,6 +1,15 @@
 # ImageSimilarity
 Apply machine learning to find top 10 similar images from a gallery folder given a query image.
 
+Skills used:
+
+Python
+Deep Learning
+TensorFlow
+Keras
+Transfer Learning
+
+
 # 1. Competition: 
 During the class we will release a brand new test dataset containing two folders: one for queries and one for gallery. Each group shall test their models and submit the results on a server that will reply with the achieved accuracy. The group that obtains the highest accuracy will win the competition. Here some useful information:
 a. The group shall show how the models have been tested, showing some quantitative and qualitative results.
