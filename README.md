@@ -5,9 +5,9 @@ Skills used:
 
 Python  
 Deep Learning  
-TensorFlow 
-Keras
-Transfer Learning
+TensorFlow  
+Keras  
+Transfer Learning    <br />
 
 
 # 1. Competition: 
