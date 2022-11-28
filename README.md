@@ -3,8 +3,8 @@ Apply machine learning to find top 10 similar images from a gallery folder given
 
 Skills used:
 
-Python //
-Deep Learning //
+Python \n
+Deep Learning /n
 TensorFlow 
 Keras
 Transfer Learning
